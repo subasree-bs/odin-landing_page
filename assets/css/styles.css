@@ -40,7 +40,7 @@ li a {
     padding:20px 175px 20px 175px;
     /* background-color: grey; */
     height: 400px;
-    gap: 100px;
+    gap: 200px;
     /* width: 350px; */
   }
   .hcontent_left{
@@ -50,7 +50,11 @@ li a {
   }
   .hcontent_right{
     float:right;
-    width:400px;
+    width:500px;
+  }
+  .honda_img{
+    height: 200px;
+    width: 400px;
   }
   h1{
       font-size: 48px;
@@ -143,7 +147,7 @@ li a {
   background-color: #3882F6;
   border-radius: 10px;
   /* margin-top: 150px; */
-  padding: 45px 30px;
+  padding: 40px 30px;
 }
 .blue_p{
   color: #e4e1e1;
@@ -171,6 +175,12 @@ h3{
   margin-right: 150px;
 }
 .footer{
-  height:85px;
-  background-color: black;
+  height:40px;
+  background-color: #1F2937;
+  padding: 20px 0  25px 0;
+}
+.footer_p{
+  text-align: center;
+  color: #e4e1e1;
+  font-size: 15px;
 }
