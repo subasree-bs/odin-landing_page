@@ -118,10 +118,11 @@ li a {
   color: #1F2937;
   font-style: italic;
   font-size: 36px;
-  margin: 0px 160px;
+  margin: 0px 200px;
   text-align: left;
   padding-top: 100px;
-  font-weight: normal;
+  font-weight:400;
+  
 }
 .quote_author{
   color: #1F2937;
