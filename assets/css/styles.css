@@ -131,10 +131,44 @@ li a {
   float:right;
   margin-right: 190px;
   font-weight: bold;
-  margin-top: 5px;
+  /* margin-top: 5px; */
 }
 .sign_up-content{
-  height: 350px;
+  height: 150px;
+  padding: 100px 200px;
+}
+.blue_container{
+  height: 70px;
+  width: 100%;
+  background-color: #3882F6;
+  border-radius: 10px;
+  /* margin-top: 150px; */
+  padding: 45px 30px;
+}
+.blue_p{
+  color: #e4e1e1;
+  margin: 0;
+}
+
+h3{
+  margin:0;
+  color: white;
+  font-size: 23px;
+}
+.btn_sign_up{
+
+  float: right;
+  background-color: #3882F6;
+  border: 2px solid white;
+  color: white;
+  padding: 7px 35px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 10px;
+  box-shadow: none;
+  margin-right: 150px;
 }
 .footer{
   height:85px;
